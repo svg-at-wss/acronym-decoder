@@ -28,6 +28,7 @@
     "@types/universal-analytics": "^0.4.2",
     "bootstrap": "^4.0.0",
     "core-js": "^2.6.11",
+    "node-forge": "0.10.0",
     "rxjs": "^5.5.2",
     "universal-analytics": "^0.4.16",
     "zone.js": "^0.8.14"
